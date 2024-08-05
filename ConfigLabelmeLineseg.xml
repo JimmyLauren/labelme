@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<useseg>true</useseg>
+	<seg>left_eye,noise,right_eye</seg>
+	<seg>left_mouth_coor,left_mouth_coor</seg>
+</config>
+<!--- 加载配置，根据点顺序为点画线，注意：只在画点的时候有效 --->
+<!--- 添加线段，用,分隔。有多条线就添加多个seg对 --->
