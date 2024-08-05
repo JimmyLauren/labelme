@@ -32,7 +32,7 @@ modified from https://github.com/labelmeai/labelme
 
 # Change log
 
-20240805 添加关键点骨架可视化功能，关键点可视化顺序由.xml文件配置。可配置显示人脸关键点、人体关键点等。
+20240805 添加关键点骨架可视化功能，关键点可视化顺序由.xml文件配置。可配置显示人脸关键点、人体关键点的骨架（线条）信息等。
 
 ## Description
 
